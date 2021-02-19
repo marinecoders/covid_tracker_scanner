@@ -1,7 +1,7 @@
 # Simple Covid Tracker with CAC scanner
 
 ## Set Up
-1. `git clone https://github.com/phansiri/simple_covid_tracker_scanner.git`
+1. `git clone https://github.com/marinecoders/covid_tracker_scanner.git`
 2. `cd simple_covid_tracker_scanner`
 3. Create `.env` in the `covid_project` directory with something like:
 ```.env
