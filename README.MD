@@ -20,7 +20,7 @@ and CACs, logging events to track individuals will provide a stand-alone technol
 ## Hardware Requirements
 
 1. Any Hands-Free and automatic scanner with a specification to read the `2D PDF417` type barcodes. That is because the front of the CAC is a 2D PDF417 type barcode
-   1. For example: I used the TEEMI Handsfree 1D 2D Barcode Scanner
+   1. For example: I used the TEEMI Handsfree 1D 2D Barcode Scanner bought on Amazon. For a military purchase, please see your supply about purchasing it through Servmart or other government procurement avenue.
 2. Laptop or raspberry pi
 
 Software Requirements
