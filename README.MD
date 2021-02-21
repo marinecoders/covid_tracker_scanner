@@ -1,4 +1,4 @@
-# Simple Covid Tracker with CAC scanner
+# Covid Tracker with CAC scanner
 
 ## Set Up
 1. `git clone https://github.com/marinecoders/covid_tracker_scanner.git`
